@@ -1,2 +1,2 @@
 # Cognition-and-neuroscience
-I have prepared this repository for sharing important course materials on cognition and neuroscience from the University of Bologna.
+I have prepared this repository for documenting key points of the "Cognition and Neuroscience" course at the university of Bologna.
